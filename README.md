@@ -2,7 +2,7 @@
 
 A 32 Function button box for Sim Racing, also suitable for Truck simulator or Flight Sims.
 
-Based in https://www.youtube.com/watch?v=Z7Sc4MJ8RPM
+Based on https://www.youtube.com/watch?v=Z7Sc4MJ8RPM
 
 ### Arduino Libraries needed
 
